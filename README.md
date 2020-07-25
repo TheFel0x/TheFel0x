@@ -1,4 +1,4 @@
-[![C#](https://img.shields.io/badge/C%23-cs-662079)](https://www.csharp.net/) [![JavaScript](https://img.shields.io/badge/JavaScript-js-f0db4f)](https://www.javascript.com/) [![CSS3](https://img.shields.io/badge/CSS-css-264DE4)](https://www.w3.org/Style/CSS/) [![HTML5](https://img.shields.io/badge/HTML5-htm-E44D26)](https://whatwg.org/) [![Pascal](https://img.shields.io/badge/Pascal-pas-0037DA)](http://www.pascal-programming.info/) [![Python3](https://img.shields.io/badge/Python3-py-4B8BBE)](https://www.python.org/)
+[![C#](https://img.shields.io/badge/-C%23-662079)](https://www.csharp.net/) [![JavaScript](https://img.shields.io/badge/-JS-f0db4f)](https://www.javascript.com/) [![CSS3](https://img.shields.io/badge/-CSS-264DE4)](https://www.w3.org/Style/CSS/) [![HTML5](https://img.shields.io/badge/-HTML5-E44D26)](https://whatwg.org/) [![Pascal](https://img.shields.io/badge/-Pascal-0037DA)](http://www.pascal-programming.info/) [![Python3](https://img.shields.io/badge/-Python-4B8BBE)](https://www.python.org/)
 ### Hi there 👋
 
 #### To Do:
@@ -29,5 +29,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 
 
