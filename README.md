@@ -19,6 +19,5 @@ Here are some ideas to get you started:
 -->
 
 #### Send me money
-**₿**: `1PNkrHZwAdgm28EAMPK6FWa2rZBvyYMLCf`
-
-**Monero**: `0x88gFzGzaG7rEctRDcWRsReGaSVNZeQ5vyYdnu8vZCvgqe5JFzV7xJ2bB3h3Er95tjjCikJHGf9e296PL8cHTZzkEF1uh2LW`
+- **₿**: `1PNkrHZwAdgm28EAMPK6FWa2rZBvyYMLCf`
+- **Monero**: `0x88gFzGzaG7rEctRDcWRsReGaSVNZeQ5vyYdnu8vZCvgqe5JFzV7xJ2bB3h3Er95tjjCikJHGf9e296PL8cHTZzkEF1uh2LW`
