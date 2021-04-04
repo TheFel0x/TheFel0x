@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - **₿**: `1PNkrHZwAdgm28EAMPK6FWa2rZBvyYMLCf`
 - **Monero**: `88gFzGzaG7rEctRDcWRsReGaSVNZeQ5vyYdnu8vZCvgqe5JFzV7xJ2bB3h3Er95tjjCikJHGf9e296PL8cHTZzkEF1uh2LW`
 
-[Look at this.](https://thefel0x.github.io/table)
+[![](https://img.shields.io/badge/-Click%20me!!-red)](https://thefel0x.github.io/table)
