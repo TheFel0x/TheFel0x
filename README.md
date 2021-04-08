@@ -14,6 +14,12 @@
     <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white" style="background-color:#1572B6;padding-right:34px;"></img>
     <img src="https://img.shields.io/badge/-Delphi-EE1F35?style=flat-square&logo=Delphi&logoColor=white" style="background-color:#EE1F35;padding-right:22px;"></img>
     <img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" style="background-color:#EE1F35;padding-right:22px;"></img>
+    </br>
+    <img src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"></img>
+    <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"></img>
+    <img src="https://img.shields.io/badge/-Raspberry_Pi-A22846?style=flat-square&logo=Raspberry-Pi&logoColor=white"></img>
+    <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"></img>
+       
 </p>
 
 </br>
