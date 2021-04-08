@@ -7,19 +7,40 @@
 
 <h3 align="center">stuff I've been using</h3>
 <p align="center">
-    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" style="background-color:#3573a5;padding-right:18px;"></img>
-    <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp#&logoColor=white" style="background-color:#239120;padding-right:40px;"></img>
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" style="background-color:#F7DF1E;padding-right:0px;"></img>
-    <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"  style="background-color:#E34F26;padding-right:26px;"></img>
-    <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white" style="background-color:#1572B6;padding-right:34px;"></img>
-    <img src="https://img.shields.io/badge/-Delphi-EE1F35?style=flat-square&logo=Delphi&logoColor=white" style="background-color:#EE1F35;padding-right:22px;"></img>
-    <img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" style="background-color:#EE1F35;padding-right:22px;"></img>
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white">
+        <a></a>
+    </img>
+    <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp#&logoColor=white">
+        <a></a>
+    </img>
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black">
+        <a></a>
+    </img>
+    <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white">
+        <a></a>
+    </img>
+    <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white">
+        <a></a>
+    </img>
+    <img src="https://img.shields.io/badge/-Delphi-EE1F35?style=flat-square&logo=Delphi&logoColor=white">
+        <a></a>
+    </img>
+    <img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
+        <a></a>
+    </img>
     </br>
-    <img src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"></img>
-    <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"></img>
-    <img src="https://img.shields.io/badge/-Raspberry_Pi-A22846?style=flat-square&logo=Raspberry-Pi&logoColor=white"></img>
-    <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"></img>
-       
+    <img src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=white">
+        <a></a>
+    </img>
+    <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black">
+        <a></a>
+    </img>
+    <img src="https://img.shields.io/badge/-Raspberry_Pi-A22846?style=flat-square&logo=Raspberry-Pi&logoColor=white">
+        <a></a>
+    </img>
+    <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white">
+        <a></a>
+    </img>
 </p>
 
 </br>
