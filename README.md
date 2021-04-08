@@ -49,7 +49,7 @@
 </br>
 
 #### send me money ... :^)
-- **BTC**: `1PNkrHZwAdgm28EAMPK6FWa2rZBvyYMLCf`
+- **BTC**: `18XtriSeVzKpN4Hg6aGScZr14yaSamwQVn`
 - **XMR**: `88gFzGzaG7rEctRDcWRsReGaSVNZeQ5vyYdnu8vZCvgqe5JFzV7xJ2bB3h3Er95tjjCikJHGf9e296PL8cHTZzkEF1uh2LW`
 - **RVN**: `RALoWSpemDYwEVWJzEgNhGpaAJGGXMPQ6D`
 - **ETH**: `0xdea02bFd50d81A43eBDfFc5F459e6Af6925f2615`
