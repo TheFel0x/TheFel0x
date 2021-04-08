@@ -8,7 +8,7 @@
     <summary>Stuff I've been using</summary>
     <ul>
         <li>
-            <img src="https://img.shields.io/badge/-Python-3572A5?style=flat-square&logo=Python&logoColor=white" style="background-color:#3573a5;padding-right:18px;">
+            <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" style="background-color:#3573a5;padding-right:18px;">
             </img>
         </li>
         <li>
@@ -29,6 +29,10 @@
         </li>
         <li>
             <img src="https://img.shields.io/badge/-Delphi-EE1F35?style=flat-square&logo=Delphi&logoColor=white" style="background-color:#EE1F35;padding-right:22px;">
+            </img>
+        </li>
+        <li>
+            <img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" style="background-color:#EE1F35;padding-right:22px;">
             </img>
         </li>
     <ul>
