@@ -8,27 +8,27 @@
     <summary>Stuff I've been using</summary>
     <ul>
         <li>
-            <img src="https://img.shields.io/badge/-Python-3572A5?style=flat-square&logo=Python&logoColor=white">
+            <img src="https://img.shields.io/badge/-Python-3572A5?style=flat-square&logo=Python&logoColor=white" style="background-color:#3573a5;padding-right:18px;">
             </img>
         </li>
         <li>
-            <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp#&logoColor=white">
+            <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp#&logoColor=white" style="background-color:#239120;padding-right:40px;">
             </img>
         </li>
         <li>
-            <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black">
+            <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" style="background-color:#F7DF1E;padding-right:0px;">
             </img>
         </li>
         <li>
-            <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white">
+            <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"  style="background-color:#E34F26;padding-right:26px;">
             </img>
         </li>
         <li>
-            <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white">
+            <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white" style="background-color:#1572B6;padding-right:34px;">
             </img>
         </li>
         <li>
-            <img src="https://img.shields.io/badge/-Delphi-EE1F35?style=flat-square&logo=Delphi&logoColor=white">
+            <img src="https://img.shields.io/badge/-Delphi-EE1F35?style=flat-square&logo=Delphi&logoColor=white" style="background-color:#EE1F35;padding-right:22px;">
             </img>
         </li>
     <ul>
