@@ -1,28 +1,51 @@
+<h2 align="center"><a>TheFel0x/README.md</a></h2>
+</br>
 
-[![C#](https://img.shields.io/badge/-C%23-662079)](https://www.csharp.net/) [![JavaScript](https://img.shields.io/badge/-JS-f0db4f)](https://www.javascript.com/) [![CSS3](https://img.shields.io/badge/-CSS-264DE4)](https://www.w3.org/Style/CSS/) [![HTML](https://img.shields.io/badge/-HTML-E44D26)](https://whatwg.org/) [![Pascal](https://img.shields.io/badge/-Pascal-0037DA)](http://www.pascal-programming.info/) [![Python](https://img.shields.io/badge/-Python-4B8BBE)](https://www.python.org/)
-#### To Do:
-- do something with C++
-- do more network stuff
-<!--
-**TheFel0x/TheFel0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">I'm just writing something here to make it look nice.</br>Please do me a favor and don't actually read <b>this</b> paragraph.</br>I'm sure I will come up with better things to say here one day.</p>
+</br>
 
-Here are some ideas to get you started:
+<details>
+    <summary>Stuff I've been using</summary>
+    <ul>
+        <li>
+            <img src="https://img.shields.io/badge/-Python-3572A5?style=flat-square&logo=Python&logoColor=white">
+            </img>
+        </li>
+        <li>
+            <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp#&logoColor=white">
+            </img>
+        </li>
+        <li>
+            <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black">
+            </img>
+        </li>
+        <li>
+            <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white">
+            </img>
+        </li>
+        <li>
+            <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white">
+            </img>
+        </li>
+        <li>
+            <img src="https://img.shields.io/badge/-Delphi-EE1F35?style=flat-square&logo=Delphi&logoColor=white">
+            </img>
+        </li>
+    <ul>
+</details>
+</br>
+<details>
+    <summary>ToDo</summary>
+    <ul>
+        <li>come up with better README</li>
+        <li>do more with C++</li>
+        <li>earn money somehow</li>
+    </ul>
+</details>
+</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-#### Send me money
+#### send me money ... :^)
 - **BTC**: `1PNkrHZwAdgm28EAMPK6FWa2rZBvyYMLCf`
 - **XMR**: `88gFzGzaG7rEctRDcWRsReGaSVNZeQ5vyYdnu8vZCvgqe5JFzV7xJ2bB3h3Er95tjjCikJHGf9e296PL8cHTZzkEF1uh2LW`
 - **RVN**: `RALoWSpemDYwEVWJzEgNhGpaAJGGXMPQ6D`
-
-[![](https://img.shields.io/badge/-Click%20me!!-red)](https://thefel0x.github.io/table)  (may load slowly)
-
-<!-- testing 2 -->
+- **ETH**: `0xdea02bFd50d81A43eBDfFc5F459e6Af6925f2615`
