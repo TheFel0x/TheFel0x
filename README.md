@@ -96,3 +96,4 @@
 </p>
 
 <!-- this is a change that was made in the branch "new-test-branch" -->
+<!-- this is a change that was made in the branch "master" -->
