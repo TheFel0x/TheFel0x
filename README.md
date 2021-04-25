@@ -50,6 +50,7 @@
         <li>come up with better README</li>
         <li>do more with C++</li>
         <li>earn money somehow</li>
+        <li>learn Rust</li>
     </ul>
 </details>
 </br>
