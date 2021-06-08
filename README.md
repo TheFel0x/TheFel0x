@@ -28,6 +28,9 @@
     <img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
         <a></a>
     </img>
+    <img src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=white">
+        <a></a>
+    </img>
     </br>
     <img src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=white">
         <a></a>
