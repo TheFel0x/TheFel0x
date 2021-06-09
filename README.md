@@ -24,10 +24,10 @@
     </img>
     <img src="https://img.shields.io/badge/-Delphi-EE1F35?style=flat-square&logo=Delphi&logoColor=white">
         <a></a>
-    </img>
+    <!--</img>
     <img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
         <a></a>
-    </img>
+    </img>-->
     <img src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=white">
         <a></a>
     </img>
@@ -51,9 +51,8 @@
     <summary>ToDo</summary>
     <ul>
         <li>come up with better README</li>
-        <li>do more with C++</li>
         <li>earn money somehow</li>
-        <li>learn Rust</li>
+        <li>do more with Rust</li>
     </ul>
 </details>
 </br>
