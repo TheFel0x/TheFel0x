@@ -54,8 +54,7 @@
     <summary>ToDo</summary>
     <ul>
         <li>come up with better README</li>
-        <li>earn money somehow</li>
-        <li>do more with Rust</li>
+        <li>do something with C</li>
     </ul>
 </details>
 </br>
@@ -105,7 +104,7 @@
 <details>
     <summary>currently working on...</summary>
     <ul>
-        <li>nothing</li>
+        <li>things and stuff!</li>
     </ul>
 </details>
 </br>
