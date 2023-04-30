@@ -59,7 +59,7 @@
 </details>
 </br>
 
-<h3 align="center"> send me money ... :^) <h3>
+<h3 align="center"> send me money ... :^) </h3>
 <p align="center">
     <img src="https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white">
         <a></a>
